@@ -37,7 +37,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 # Installation
 Instructions on how to install *TheFatRat*
 ```bash
-git clone https://github.com/Screetsec/TheFatRat.git
+git clone https://github.com/CodeCr4cker/FatRat.git
 cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 ```
